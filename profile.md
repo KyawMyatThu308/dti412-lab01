@@ -34,3 +34,15 @@ and develop applications more efficiently.
 - Technical skills I want to improve: Python and Web Development
 - Technologies I want to learn: Django and Cloud Computing
 - Dream Job Position: Software Developer
+
+## Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
